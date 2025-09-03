@@ -1,2 +1,1 @@
-# Portfolio
-##Logan Sharrott
+# Computer Science Major
